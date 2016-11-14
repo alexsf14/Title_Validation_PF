@@ -6,7 +6,6 @@ package core.Title_Validation_PF;
 	import java.io.IOException;
 	import java.util.Properties;
 	import java.util.concurrent.TimeUnit;
-
 	import org.openqa.selenium.WebDriver;
 	import org.openqa.selenium.firefox.FirefoxDriver;
 	

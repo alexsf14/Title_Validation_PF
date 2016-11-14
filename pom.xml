@@ -37,7 +37,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.Title_Validation_PF.Selenium_properties_file_try</mainClass>
+							<mainClass>core.Title_Validation_PF.Selenium_properties_file_throws</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
